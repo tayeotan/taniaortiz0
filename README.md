@@ -7,7 +7,7 @@
 - I write about FinTech
 
   
-🔗 **Profile** [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | **Blog** [**Medium**](https://medium.com/@bytayo) | **Website** [**Vercel**](https://bytayo.vercel.app/)
+🔗 **Profile** [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | **Blog** [**Medium**](https://medium.com/@bytayo) | **Website** [**Portfolio**](https://tayeotan.github.io/)
   
 ______________________________________________________________________________________________
 
