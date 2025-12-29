@@ -22,51 +22,6 @@ _____
 
 ## 🐍 Python Projects 
 
-[**Financial Time Series Forecasting of Stock Prices with TensorFlow and Visualization**](https://github.com/taniaortiz0/FIN_TIME_SERIES_TENSORFLOW_VIZ)
-
-#### Tools:
-- Python (core language)
-- TensorFlow / Keras – Deep learning framework for building and training time series forecasting models.
-- NumPy / Pandas – Data preprocessing and manipulation.
-- Matplotlib / Seaborn – Exploratory data visualization.
-- Scikit-learn – Scaling, splitting data, and evaluation metrics.
-
-#### Keynotes:
-- Implemented time series preprocessing: normalization, train/test splits, and sequence generation.
-- Built deep learning models (e.g., LSTM, RNN, or GRU) to capture sequential dependencies.
-- Evaluated model performance using metrics such as MAE, RMSE, and MAPE.
-- Visualized training history, predicted vs. actual prices, and future forecast trends.
-- Highlighted strengths and limitations of deep learning in financial forecasting.
-
-
-
-
-[**Bitcoin Price Prediction with Machine Learning and Visualization**](https://github.com/taniaortiz0/Bitcoin-Price-Prediction-ML)
-
-#### Tools:
-- Python (primary workflow used in this project)
-- Pandas / NumPy – Data preprocessing and feature engineering.
-- Scikit-learn – Linear Regression, Random Forest, scaling, and evaluation metrics.
-- Matplotlib / Seaborn – Data visualization (predictions, residuals, feature importance, heatmaps).
-
-#### Keynotes:
-- Created target variable (next-day closing price) for supervised learning.
-- Engineered financial indicators:
-  - MA7 and MA14 (moving averages)
-  - Volatility (7-day standard deviation)
-  - Lag features (previous day’s closing price)
-
-- Trained and tested models on historical Bitcoin data:
-  - Linear Regression achieved strong performance with low error and high R².
-  - Random Forest performed poorly, showing signs of overfitting and instability.
-
-- Visualized results with:
-  - Predicted vs. actual Bitcoin prices.
-  - Residual error distributions.
-  - Feature importance scores (Random Forest).
-  - Correlation heatmap of features vs. target.
-
-
 [**Loan Approval Prediction Model**](https://github.com/taniaortiz0/Loan_Approval_Prediction_Model)
 
 #### Tools:
