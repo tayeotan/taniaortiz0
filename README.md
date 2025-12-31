@@ -132,39 +132,4 @@ ________________________________________________________________________________
 •	GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
 
 
-[**SIEM, Network Forensics, & Incident Response Home Lab**](https://github.com/taniaortiz0/SIEM-NF-IR-Home-Lab)
-
-##### Tools: VmWare Workstation Pro17, Ubuntu, REMNux, Cloudflare, Splunk
-
-##### Keynotes: 
-
-• Created an isolated environment to analyze security incidents and malware.
-
-• Configured Splunk on Ubuntu to analyze security incidents utilizing sample data from Splunk BOSS of the SOC (version 3).
-
-• Setup Remnux and utilized the tool for malware analysis to analyze malicious software.
-
-• Configured Cloudflare on Windows 11 to conduct network forensics and monitoring.
-
-_______________________________________________________________________________________________
-
-## 🗄️ Windows Active Directory Projects
-
-[**Active Directory Home Lab**](https://github.com/taniaortiz0/Active-Directory-Home-Lab)
-
-##### Tools: VMWare Workstation Pro 17, PowerShell, Windows 11, Windows Server 2022
-
-##### Keynotes:
-
-•	Configured Windows Server 2022 as the Domain Controller (DC) for the two NICs (Internet and Internal). 
-
-•	Utilized different services (Active Directory Domain Services, Remote Access Server, DHCP Server, DNS). 
-
-•	Created a domain and admin account to administer 1000+ users (Users were created using a PowerShell script).
-
-•	Configured Windows 11 as the Client to act as a private-internal network through DC.
-  
-_______________________________________________________________________________________________
-
-
 
